@@ -117,7 +117,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="www.linkedin.com/in/utkarsh-singh-fc9119">
+  <a href="www.linkedin.com/in/utkarsh-singh-fc9119" target="Utkarsh Singh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:09utkarshsingh01@gmail.com">
